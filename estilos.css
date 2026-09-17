@@ -1,0 +1,38 @@
+body{
+ margin: 0; 
+ padding: 0;  
+}
+
+h1{
+    background-color: blue;
+    color: cyan;
+    text-align: center;
+    margin: 20px;
+}
+
+div
+{
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+}
+h3
+{
+    color:blueviolet ;
+}
+
+.azul{
+    color: blue;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
