@@ -44,3 +44,27 @@ h1
     display: flex;
     justify-content: center;
 }
+
+.inicio
+{
+display: flex;
+justify-content: center;
+}
+
+.fim
+{
+display: flex;
+justify-content: space-around;
+}
+
+.around
+{
+display: flex;
+justify-content: space-around;
+}
+
+.between
+{
+display: flex;
+justify-content: space-around;
+}
